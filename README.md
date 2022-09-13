@@ -6,6 +6,8 @@ Note: You have to insert your own token in Program.cs
 
 Detected by Windows Defender but you can troll your friends with it when you´re smart and know how to unblock the file
 
+maybe but unlikely i make an update in the future
+
 All the commands:
 
 msgbox id "Title", "Message", ButtonOK, Stop/info
